@@ -1,1 +1,42 @@
-@@||blockadblock.com^$generichide
+! 2021-02-03 http://164.68.111.161
+164.68.111.161###top_banner > center > table > tbody > tr > td > [href^="/GoUrl.php"] > .banner-img
+
+! 2021-02-27 https://batch.id
+batch.id##.jconfirm-open.jconfirm-754fedfb06d795931665.jconfirm
+
+! 2021-02-27 https://blackleadr.com
+blackleadr.com##.jconfirm-open.jconfirm-bde9383c7a9de7cf37ac.jconfirm
+blackleadr.com##.jconfirm-open.jconfirm-4d02aefcb836edd7f5de.jconfirm
+
+! 2021-02-27 https://batch.id
+batch.id##.jconfirm
+
+! 2021-06-09 https://mediasharingku.my.id
+mediasharingku.my.id##p > div > ins
+mediasharingku.my.id##div > div > ins > div
+
+! 2021-12-12 https://167.86.71.48
+167.86.71.48##.jconfirm-cell
+167.86.71.48##.jconfirm-scrollpane
+167.86.71.48##.jconfirm-bg
+167.86.71.48##.jconfirm-open.jconfirm-ed614a1b91a57d4abb53.jconfirm
+167.86.71.48##.jconfirm
+
+107.152.39.187##+js(nobab)
+blockadblock.com##+js(nobab)
+
+! 2022-07-08 https://stockbit.com
+stockbit.com##.stream-post__youtube--wrapper
+
+! 2022-09-13 https://adikhealth.xyz
+adikhealth.xyz##.adb
+
+! 2022-09-13 https://mangindo.xyz
+mangindo.xyz##.adb
+
+! 2022-09-13 https://m.adikdrive.my.id
+m.adikdrive.my.id##.adb
+
+! 2022-09-13 https://w.adikcloud.my.id
+w.adikcloud.my.id##.adb
+
