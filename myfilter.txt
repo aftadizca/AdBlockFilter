@@ -40,3 +40,6 @@ m.adikdrive.my.id##.adb
 ! 2022-09-13 https://w.adikcloud.my.id
 w.adikcloud.my.id##.adb
 
+! 2023-02-05 https://globalssh.net
+globalssh.net###qdb7
+
