@@ -38,6 +38,11 @@ mangindo.xyz##.adb
 m.adikdrive.my.id##.adb
 
 ! 2022-09-13 https://w.adikcloud.my.id
+
+! 2024-04-15 https://video.pemersatu.org
+video.pemersatu.org##center
+video.pemersatu.org##.ad
+video.pemersatu.org##.kamucurang.active:remove-class(active)
 w.adikcloud.my.id##.adb
 
 ! 2023-02-05 https://globalssh.net
