@@ -43,6 +43,7 @@ m.adikdrive.my.id##.adb
 video.pemersatu.org##center
 video.pemersatu.org##.ad
 video.pemersatu.org##.kamucurang.active:remove-class(active)
+video.pemersatudotfun.com##.kamucurang.active:remove-class(active)
 w.adikcloud.my.id##.adb
 
 ! 2023-02-05 https://globalssh.net
