@@ -43,6 +43,10 @@ m.adikdrive.my.id##.adb
 video.pemersatu.org##center
 video.pemersatu.org##.ad
 video.pemersatu.org##.kamucurang.active:remove-class(active)
+
+! 2024-04-17 https://video.pemersatudotfun.com
+video.pemersatudotfun.com##.siapakita > center
+video.pemersatudotfun.com###myDiv
 video.pemersatudotfun.com##.kamucurang.active:remove-class(active)
 w.adikcloud.my.id##.adb
 
