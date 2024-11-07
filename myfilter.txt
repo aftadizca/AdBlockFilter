@@ -42,12 +42,13 @@ m.adikdrive.my.id##.adb
 ! 2024-04-15 https://video.pemersatu.org
 video.pemersatu.org##center
 video.pemersatu.org##.ad
-video.pemersatu.org##.kamucurang.active:remove-class(active)
+video.pemersatu.org##.pemersatuDiv
+video.pemersatu.org##.kamucurang:remove-class(active)
 
 ! 2024-04-17 https://video.pemersatudotfun.com
 video.pemersatudotfun.com##.siapakita > center
 video.pemersatudotfun.com###myDiv
-video.pemersatudotfun.com##.kamucurang.active:remove-class(active)
+video.pemersatudotfun.com##.kamucurang:remove-class(active)
 w.adikcloud.my.id##.adb
 
 ! 2023-02-05 https://globalssh.net
