@@ -42,7 +42,7 @@ m.adikdrive.my.id##.adb
 ! 2024-04-15 https://video.pemersatu.org
 video.pemersatu.org##center
 video.pemersatu.org##.ad
-video.pemersatu.org##.pemersatuDiv
+video.pemersatu.org###pemersatuDiv
 video.pemersatu.org##.kamucurang:remove-class(active)
 
 ! 2024-04-17 https://video.pemersatudotfun.com
